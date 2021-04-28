@@ -4,8 +4,9 @@ Reference [freeCodeCamp](https://www.freecodecamp.org).
 
  
 ### Problem 1
-![git](/images/landingpage.png)/
 How can I delete a repository on github with an arrow? I would not like to delete my last commit.
+![git](/images/landingpage.png)
+
 
 #### Answer [reference](https://stackoverflow.com/questions/62707431/how-can-i-delete-a-repository-on-github-with-an-arrow)
 
